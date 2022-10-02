@@ -3,7 +3,7 @@ using System;
 namespace GreaterThenLessThenUtil
 {
     
-    //MADE BY MATTHEW PERKINS
+    //MADE BY MATTHEW PERKINS (DO NOT SKID)
     
     public class Utils
     {
