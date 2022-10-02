@@ -19,7 +19,7 @@ namespace GreaterThenLessThenUtil
         {
             Console.WriteLine(first == second
                 ? "number 1 is equal to number 2 !!"
-                : "number 1 and number 2 are not the same...");
+                : "number 1 and number 2 are not the same..");
         }
     }
 }
